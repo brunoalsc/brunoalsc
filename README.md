@@ -1,6 +1,6 @@
 ### Olá, Seja bem-vindo ao meu perfil 👋
 
-- 🔭 Atualmente trabalho no ramo varejista
+- 🔭 Atualmente faço parte do time de campeões Centauro!
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
 - 📫 Entre em contato comigo: brunocandido16@gmail.com
 
