@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, Seja bem-vindo ao meu perfil 👋
 
 - 🔭 Atualmente trabalho no ramo varejista
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
