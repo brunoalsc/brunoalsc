@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/seu-usuário-aqui/brunoalsc/blob/output/github-contribution-grid-snake.svg)
-
 ### Hi there 👋
 
 <!--
